@@ -101,7 +101,6 @@ dist
 
 # macOS
 .DS_Store
-
 # python
 pycache/
 
