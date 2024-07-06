@@ -62,9 +62,7 @@ typings/
 
 # Output of 'npm pack'
 
-# Yarn Integrity file
-# dotenv environment variables file
-.env
+# Yarn Integrity file.env
 
 # parcel-bundler cache (https://parceljs.org/)
 .cache
