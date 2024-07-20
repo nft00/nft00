@@ -13,7 +13,7 @@ lib-cov
 # Coverage 
 ctory used by tools like istanbul
 coverage
-
+sf
 *.lcov
 
 # nyc test coverage
